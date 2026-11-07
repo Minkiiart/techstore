@@ -1,0 +1,16 @@
+cliente_id,nombre,email,devoluciones_previas_90d
+C-001,Cliente 1,cliente1@example.com,3
+C-002,Cliente 2,cliente2@example.com,4
+C-003,Cliente 3,cliente3@example.com,1
+C-004,Cliente 4,cliente4@example.com,2
+C-005,Cliente 5,cliente5@example.com,4
+C-006,Cliente 6,cliente6@example.com,4
+C-007,Cliente 7,cliente7@example.com,3
+C-008,Cliente 8,cliente8@example.com,1
+C-009,Cliente 9,cliente9@example.com,4
+C-010,Cliente 10,cliente10@example.com,5
+C-011,Cliente 11,cliente11@example.com,5
+C-012,Cliente 12,cliente12@example.com,1
+C-013,Cliente 13,cliente13@example.com,5
+C-014,Cliente 14,cliente14@example.com,2
+C-015,Cliente 15,cliente15@example.com,3

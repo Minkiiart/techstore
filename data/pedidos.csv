@@ -1,0 +1,41 @@
+pedido_id,cliente_id,producto,categoria,monto,fecha_compra,estado,motivo_devolucion
+PED-001,C-012,Mouse inalámbrico,accesorios,25000,2025-10-14,entregado,no era lo que esperaba
+PED-002,C-012,"Monitor 24""",pantalla,180000,2025-10-10,entregado,producto incompleto
+PED-003,C-010,Smartwatch,wearable,120000,2025-10-12,en_transito,producto defectuoso
+PED-004,C-004,Audífonos Bluetooth,audio,45000,2025-10-12,entregado,cambio de opinión
+PED-005,C-009,Cable HDMI,accesorios,12000,2025-10-14,entregado,producto incompleto
+PED-006,C-004,Smartwatch,wearable,120000,2025-10-01,en_transito,cambio de opinión
+PED-007,C-014,Cargador USB-C,accesorios,15000,2025-09-19,entregado,no era lo que esperaba
+PED-008,C-005,Webcam HD,accesorios,40000,2025-10-04,entregado,no era lo que esperaba
+PED-009,C-002,Parlante portátil,audio,65000,2025-10-11,en_transito,producto defectuoso
+PED-010,C-006,Parlante portátil,audio,65000,2025-09-17,entregado,producto defectuoso
+PED-011,C-002,"Tablet 10""",tablet,250000,2025-09-27,en_transito,producto defectuoso
+PED-012,C-014,Smartwatch,wearable,120000,2025-10-05,entregado,cambio de opinión
+PED-013,C-002,"Monitor 24""",pantalla,180000,2025-09-22,entregado,producto incompleto
+PED-014,C-005,"Monitor 24""",pantalla,180000,2025-09-20,entregado,no era lo que esperaba
+PED-015,C-007,Mouse inalámbrico,accesorios,25000,2025-08-31,entregado,talla equivocada
+PED-016,C-006,Parlante portátil,audio,65000,2025-10-09,entregado,no era lo que esperaba
+PED-017,C-015,Cargador USB-C,accesorios,15000,2025-09-22,entregado,cambio de opinión
+PED-018,C-012,Teclado mecánico,accesorios,85000,2025-09-27,entregado,no era lo que esperaba
+PED-019,C-005,"Tablet 10""",tablet,250000,2025-10-02,entregado,producto incompleto
+PED-020,C-013,Parlante portátil,audio,65000,2025-09-18,entregado,no era lo que esperaba
+PED-021,C-006,Audífonos Bluetooth,audio,45000,2025-09-19,en_transito,llegó dañado
+PED-022,C-004,"Tablet 10""",tablet,250000,2025-10-05,entregado,no era lo que esperaba
+PED-023,C-015,"Tablet 10""",tablet,250000,2025-10-02,en_transito,no era lo que esperaba
+PED-024,C-004,Cargador USB-C,accesorios,15000,2025-10-10,entregado,producto incompleto
+PED-025,C-015,Cable HDMI,accesorios,12000,2025-10-01,en_transito,llegó dañado
+PED-026,C-009,"Monitor 24""",pantalla,180000,2025-10-10,en_transito,producto defectuoso
+PED-027,C-002,Audífonos Bluetooth,audio,45000,2025-09-17,entregado,producto incompleto
+PED-028,C-011,Teclado mecánico,accesorios,85000,2025-09-19,en_transito,cambio de opinión
+PED-029,C-007,Mouse inalámbrico,accesorios,25000,2025-10-02,en_transito,cambio de opinión
+PED-030,C-014,Cargador USB-C,accesorios,15000,2025-09-27,entregado,producto incompleto
+PED-031,C-015,Mouse inalámbrico,accesorios,25000,2025-09-23,entregado,producto incompleto
+PED-032,C-005,Parlante portátil,audio,65000,2025-10-11,en_transito,no era lo que esperaba
+PED-033,C-012,"Tablet 10""",tablet,250000,2025-10-14,entregado,cambio de opinión
+PED-034,C-015,Teclado mecánico,accesorios,85000,2025-09-28,entregado,producto incompleto
+PED-035,C-011,Cargador USB-C,accesorios,15000,2025-09-18,entregado,no era lo que esperaba
+PED-036,C-003,Parlante portátil,audio,65000,2025-09-20,entregado,cambio de opinión
+PED-037,C-001,Parlante portátil,audio,65000,2025-09-29,entregado,llegó dañado
+PED-038,C-001,Cargador USB-C,accesorios,15000,2025-10-07,entregado,cambio de opinión
+PED-039,C-012,Mouse inalámbrico,accesorios,25000,2025-10-12,en_transito,producto defectuoso
+PED-040,C-003,Smartwatch,wearable,120000,2025-09-20,entregado,producto incompleto
